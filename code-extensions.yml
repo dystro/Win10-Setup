@@ -1,0 +1,23 @@
+---
+extensions:
+  - name: eamodio.gitlens
+  - name: GitHub.copilot-nightly
+  - name: GitHub.remotehub
+  - name: GitHub.vscode-pull-request-github
+  - name: mechatroner.rainbow-csv
+  - name: ms-azuretools.vscode-bicep
+  - name: ms-dotnettools.vscode-dotnet-runtime
+  - name: ms-python.black-formatter
+  - name: ms-python.python
+  - name: ms-python.vscode-pylance
+  - name: ms-toolsai.jupyter
+  - name: ms-toolsai.jupyter-keymap
+  - name: ms-toolsai.jupyter-renderers
+  - name: ms-vscode-remote.remote-containers
+  - name: ms-vscode-remote.remote-ssh
+  - name: ms-vscode-remote.remote-ssh-edit
+  - name: ms-vscode.azure-account
+  - name: ms-vscode.powershell
+  - name: ms-vscode.remote-repositories
+  - name: msazurermtools.azurerm-vscode-tools
+  - name: redhat.vscode-yaml
